@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "framework": "nextjs",
+  "buildCommand": "next build",
+  "outputDirectory": ".next",
+  "env": {
+    "NEXT_PUBLIC_APPS_SCRIPT_URL": "@next_public_apps_script_url",
+    "NEXT_PUBLIC_CALENDLY_URL": "@next_public_calendly_url",
+    "NEXT_PUBLIC_UPI_VPA": "@next_public_upi_vpa",
+    "NEXT_PUBLIC_UPI_NAME": "@next_public_upi_name"
+  }
+}
